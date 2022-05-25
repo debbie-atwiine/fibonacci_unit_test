@@ -23,7 +23,7 @@ describe('Testing fibonacci series for given numbers', () => {
     });
     
     it('should return 13 when given 7', () => {
-        assert.equal(fibonacci(7), 1);
+        assert.equal(fibonacci(7), 13);
     });
 
     it('should return 34 when given 9', () => {
