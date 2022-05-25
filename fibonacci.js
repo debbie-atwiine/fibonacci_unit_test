@@ -9,3 +9,6 @@ function fibonacci(num) {
 }
 
 module.exports = fibonacci;
+
+
+//pair programming partner: ARAFAT MAGEZI

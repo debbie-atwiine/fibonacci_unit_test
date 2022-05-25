@@ -31,7 +31,7 @@ describe('Testing fibonacci series for given numbers', () => {
     });
 
     it('should return 144 when given 12', () => {
-        assert.equal(fibonacci(12), 144);
+        assert.equal(fibonacci(12), 14);
     });
 
     it('should return 377 when given 14', () => {
